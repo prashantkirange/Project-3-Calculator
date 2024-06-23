@@ -1,0 +1,294 @@
+.navbar {
+        background: #6F6AF7;
+        font-family: "DM Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        position: sticky;
+        top: -0px;
+}
+
+#logo {
+        font-family: "Delius Unicase", cursive;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 61.43px;
+        line-height: 78.81px;
+        text-align: left;
+        padding: 10px;
+}
+
+li {
+        display: inline-block;
+        list-style: none;
+        padding-right: 30px;
+        align-items: center;
+}
+
+.navdiv {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        color: white;
+        font-size: 20px;
+        font-weight: 300;
+        padding-right: 20px;
+}
+
+.threeline {
+        height: 30px;
+        width: 40px;
+}
+
+input {
+        top: 36px;
+        height: 40px;
+        width: 200px;
+        margin-right: 30px;
+        border-color: white;
+        border-style: solid;
+        border-radius: 63px;
+}
+
+
+
+
+.container1 {
+        display: flex;
+        margin: 30px 40px;
+        justify-content: space-around;
+        padding: 20px;
+}
+
+.image2 {
+        width: 456px;
+        height: 407px;
+        top: 289px;
+        margin-top: 30px;
+}
+
+.textbox {
+        border: solid;
+        background-color: #E5D8FF;
+        height: 387px;
+        top: 289px;
+        margin-top: 30px;
+        border-color: #FFFFFF;
+        border-radius: 20px;
+        font-size: 25px;
+        color: #6F7373;
+        margin-left: 40px;
+        padding-top: 20px;
+        padding-left: 30px;
+        padding-right: 30px;
+        line-height: 41.82px;
+        font-family: "DM Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        box-shadow: 3px 5px 27px 0px #00000040 inset;
+}
+
+.stick {
+        position: sticky;
+        top: 150px;
+        float: right;
+        width: 20px;
+        margin-right: 70px;
+        height: 30px;
+        size: 30px;
+}
+
+
+.container2 {
+        display: flex;
+        justify-content: space-around;
+        color: white;
+}
+
+.box1 {
+        width: 207px;
+        height: 100px;
+        border: solid;
+        border-radius: 10px;
+        border-color: #929DFF;
+        background-color: #929DFF;
+        padding-left: 15px;
+        font-size: 25px;
+        font-family: "DM Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        line-height: 15px;
+        box-shadow: 0px 9px 31px 0px #00000066;
+}
+
+.box2 {
+        width: 207px;
+        height: 100px;
+        border: solid;
+        border-radius: 10px;
+        border-color: #734CF2;
+        background-color: #734CF2;
+        padding-left: 15px;
+        font-size: 25px;
+        font-family: "DM Sans", sans-serif;
+        line-height: 15px;
+        box-shadow: 0px 9px 31px 0px #00000066;
+}
+
+.box3 {
+        width: 207px;
+        height: 100px;
+        border: solid;
+        border-radius: 10px;
+        border-color: #D288FF;
+        background-color: #D288FF;
+        padding-left: 15px;
+        font-size: 25px;
+        font-family: "DM Sans", sans-serif;
+        line-height: 15px;
+        box-shadow: 0px 9px 31px 0px #00000066;
+}
+
+.box4 {
+        width: 207px;
+        height: 100px;
+        border: solid;
+        border-radius: 10px;
+        border-color: #000000;
+        background-color: #000000;
+        padding-left: 15px;
+        font-size: 25px;
+        font-family: "DM Sans", sans-serif;
+        line-height: 15px;
+        box-shadow: 0px 9px 31px 0px #00000066;
+}
+
+.askme {
+        position: sticky;
+        margin-left: 1150px;
+        float: unset;
+        bottom: 15px;
+        top: 30px;
+}
+
+.container3 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #483EFF;
+        color: white;
+        border-radius: 10px;
+        margin: 50px;
+        padding: 10px 60px 10px 60px;
+}
+
+div .drop p {
+        border: solid;
+        border-radius: 8px;
+        border-color: white;
+        height: 40px;
+        width: 130px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        font-size: 20px;
+        padding: 20px;
+        font-family: "DM Sans", sans-serif;
+        font-weight: 700;
+}
+
+.sub1 {
+        background-color: #BCE0F6;
+        color: #000000;
+}
+
+div.info {
+        border: solid;
+        color: #000000;
+        border-color: #FFFFFF;
+        background-color: #FFFFFF;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        width: 1004px;
+        height: 300px;
+        margin-left: 20px;
+}
+
+.list2 {
+        display: flex;
+        flex-direction: column;
+        font-family: "roboto", sans-serif;
+        justify-content: space-around;
+        line-height: 30px;
+        letter-spacing: 5%
+}
+
+.info h3 {
+        font-family: "Inter", sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 45.99px;
+}
+
+.btn {
+        width: 105px;
+        height: 45px;
+        margin-left: 850px;
+        background-color: black;
+        border: solid;
+        border: 2px;
+        border-radius: 4px;
+        color: #FFFFFF;
+        font-size: 18px;
+}
+
+h3 {
+        padding-left: 30px;
+        font-size: 25px
+}
+
+.list3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-left: -60px;
+        font-family: "roboto", sans-serif;
+}
+
+.infobar {
+        display: flex;
+        font-size: 18px;
+        margin-left: 30px;
+}
+
+.search-input {
+        width: 300px;
+        padding: 10px 40px 10px 20px;
+        border: 1px solid #ccc;
+        border-radius: 25px;
+        outline: none;
+        font-size: 16px;
+        box-sizing: border-box;
+}
+
+.search-icon {
+        position: absolute;
+        top: 50%;
+        right: 80px;
+        transform: translateY(-50%);
+        font-size: 20px;
+        color: #999;
+        pointer-events: none;
+}
+
+.search-input:focus+.search-icon {
+        color: #666;
+}
+
+.search-container {
+        position: relative;
+
+}
